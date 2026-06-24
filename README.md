@@ -140,6 +140,8 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
 
 [Codex CLI bwrap 沙箱报错 `bwrap: loopback: Failed RTM_NEWADDR` 的安全修复方案 - Taolaw - 博客园](https://www.cnblogs.com/Taolaw/p/20184477)
 
+[Windows Codex App: apply_patch fails because codex-windows-sandbox-setup.exe cannot launch from package path · Issue #29072 · openai/codex](https://github.com/openai/codex/issues/29072)
+
 ### SQL 日志导致的磁盘写入 BUG
 
 Codex Prompt：
