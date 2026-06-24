@@ -123,13 +123,13 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
 
 | Skill        | 用途                     | 原链接                                                       |
 | ------------ | ------------------------ | ------------------------------------------------------------ |
-| `neat-freak` | 会话结束后同步文档和记忆 | ![GitHub Repo](https://img.shields.io/badge/github-repo-blue?logo=github)[KKKKhazix/khazix-skills]([KKKKhazix/khazix-skills: 数字生命卡兹克开源的 AI Skills 合集](https://github.com/KKKKhazix/khazix-skills/#-neat-freak洁癖)) |
+| `neat-freak` | 会话结束后同步文档和记忆 | ![GitHub Repo](https://img.shields.io/badge/github-repo-blue?logo=github)[KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills/#-neat-freak洁癖) |
 
 ### 代码相关
 
 | Skill            | 用途                                      | 原链接                                                       |
 | ---------------- | ----------------------------------------- | ------------------------------------------------------------ |
-| `Superpowers`    | 一套完整的软件开发方法论                  | ![GitHub Repo](https://img.shields.io/badge/github-repo-blue?logo=github)[obra/superpowers]([[obra/superpowers: An agentic skills framework & software development methodology that works.](https://github.com/obra/superpowers)) |
+| `Superpowers`    | 一套完整的软件开发方法论                  | ![GitHub Repo](https://img.shields.io/badge/github-repo-blue?logo=github)[obra/superpowers](https://github.com/obra/superpowers) |
 | `Superpowers-zh` | Superpowers完整汉化 + 4 个中国原创 skills | ![GitHub Repo](https://img.shields.io/badge/github-repo-blue?logo=github)[jnMetaCode/superpowers-zh](https://github.com/jnMetaCode/superpowers-zh) |
 
 
