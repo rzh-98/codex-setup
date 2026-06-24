@@ -4,10 +4,6 @@
 
 [![License](https://img.shields.io/badge/License-MIT-3B82F6?style=for-the-badge)](./LICENSE)
 
-每次换电脑、重装环境、临时开一台新机器，都不想再手动找 skill、复制目录、检查路径。
-
-这个仓库只做一件事：把我常用的一组 Agent Skills 按固定清单安装到当前设备上。  
-它不是 skill 市场，也不是大而全合集，只是我自己的“开箱必装列表”。
 
 ---
 
